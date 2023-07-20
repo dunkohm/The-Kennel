@@ -189,7 +189,7 @@ body {
     font-weight: bold;
 }
 .main-header{
-    font-size: 40px;
+    font-size: 35px;
     font-family: 'Poppins', sans-serif;
 }
 .about-img{
@@ -214,14 +214,14 @@ body {
 }
 .about-header{
     font-family: 'Poppins', sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     margin-top: 60px;
     color: #058d60;
     font-weight: bold;
 }
 .about-header2{
     font-family: 'Poppins', sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     margin-top: 60px;
     color: #fffb01;
     font-weight: bold;
